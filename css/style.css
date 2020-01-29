@@ -160,5 +160,15 @@ div h2 {
 }
 
 .side {
-  border-left: .1em solid #fff ;
+  border-left: .1em solid rgba(46, 70, 104, 0.815);
+}
+
+.flag {
+  display: inline-block;
+  background:  rgba(46, 70, 104, 0.815);
+  padding: 10px 40px;
+  text-transform: uppercase;
+  color: #ffffff;
+  position: relative;
+  box-shadow: rgb(57, 63, 61) ;
 }
