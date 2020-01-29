@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
 * {
   margin: 0px;
   padding: 0px;
@@ -46,6 +48,10 @@ a {
 .topsauce h1 {
   padding: 25px;
   font-size: 80px;
+  text-transform: uppercase;
+  font-family: 'Montserrat', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  letter-spacing: 1px;
   margin: 80px;
   display: inline-block;
   background-color: rgba(0,0,0,0.33);
@@ -143,4 +149,16 @@ section h2, section h3, section h4 {
   display: block;
  }
     
+}
+
+div h2 {
+  padding-left: .5em;
+}
+
+.buff {
+  padding: .8em ;
+}
+
+.side {
+  border-left: .1em solid #fff ;
 }
