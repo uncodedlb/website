@@ -172,3 +172,15 @@ div h2 {
   position: relative;
   box-shadow: rgb(57, 63, 61) ;
 }
+
+#initiatives h2 a {
+  display: inline-block;
+  color: #fff;
+  padding: 5px;
+  margin-left: -5px;
+  transition: 0.5s;
+}
+
+#initiatives h2 a:hover {
+  background-color: #141c27;
+}
