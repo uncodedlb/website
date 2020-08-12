@@ -184,3 +184,8 @@ div h2 {
 #initiatives h2 a:hover {
   background-color: #141c27;
 }
+
+.col img {
+  max-width: 100%;
+  border-radius: 3px;
+}
