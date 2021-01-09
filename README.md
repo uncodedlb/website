@@ -12,4 +12,4 @@ Board Member : Andrew
 Board Member : Jacob
 ```
 
-This is taking far too long.
+This is taking far too long. My bad.
