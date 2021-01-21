@@ -199,3 +199,35 @@ div h2 {
 .topsauce h1 {
   border-radius: 3px;
 }
+
+#connect code {
+  font-family: mono;
+  display: inline-block;
+  background-color: #555 !important;
+  border: solid 1px;
+  border-radius: 2px;
+  padding: 1px 3px;
+}
+
+.rooms {
+  background-color: #141c27;
+  border-radius: 3px;
+}
+
+.rooms details summary::-webkit-details-marker {
+  display:none;
+}
+
+.rooms details summary {
+  list-style-type: none;
+}
+
+.rooms h4 {
+  font-size: 24px;
+  font-weight: 300;
+  margin-bottom: 8px;
+}
+
+.rooms details summary {
+  margin-top: 8px;
+}
