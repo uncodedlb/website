@@ -154,6 +154,10 @@ section h2, section h3, section h4 {
 .col {
   display: block;
  }
+
+.topsauce h1 {
+  background-color: #00000000;
+}
     
 }
 
